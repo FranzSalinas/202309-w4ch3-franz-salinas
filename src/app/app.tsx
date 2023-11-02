@@ -1,3 +1,6 @@
+import { List } from '../components/list/list';
+import '../css/styles.css';
+
 export function App() {
-  return <div></div>;
+  return <List></List>;
 }
